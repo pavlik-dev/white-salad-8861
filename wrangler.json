@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "short-url",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3be98b52-d568-4020-a175-5bd14876ff9a",
+      "database_name": "url-shortener"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
